@@ -7,7 +7,7 @@
             "name": "Chromium",
             "bundleIdentifier": "org.chromium.chrome.ios.dev",
             "developerName": "Google",
-            "subtitle": "Compiled with love, by hand <3, by Joe Diragi",
+            "subtitle": "Compiled with love, by hand <3",
             "version": "91.0.4458.0",
             "versionDate": "2021-03-25",
             "versionDescription": "First 'release' for iOS",
