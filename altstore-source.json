@@ -1,0 +1,33 @@
+{
+    "name": "Chromium for iOS",
+    "identifier": "com.joediragi.chromios",
+    "sourceURL": "https://raw.githubusercontent.com/TheNightmanCodeth/chromium-ios/master/altstore-source.json",
+    "apps": [
+        {
+            "name": "Chromium",
+            "bundleIdentifier": "org.chromium.chrome.ios.dev",
+            "developerName": "Google",
+            "subtitle": "Compiled with love, by hand <3, by Joe Diragi",
+            "version": "91.0.4458.0",
+            "versionDate": "2021-03-25",
+            "versionDescription": "First 'release' for iOS",
+            "downloadURL": "https://github.com/TheNightmanCodeth/chromium-ios/releases/download/1.0.0/chromium.ipa",
+            "localizedDescription": "Open source version of Google's Chrome browser for iOS",
+            "iconURL": "https://github.com/TheNightmanCodeth/chromium-ios/raw/master/Icon.png",
+            "size": "106722609",
+            "screenshotURLs": [
+                "https://i.imgur.com/dolzx60.png",
+                "https://i.imgur.com/XpJNa6V.png"
+            ],
+            "beta": false
+        }
+    ],
+    "news": [
+        {
+            "title": "Chromium for iOS now available through AltStore!",
+            "identifier": "chromium-available-download",
+            "caption": "Compiled by hand <3",
+            "date": "2020-03-25"
+        }
+    ]
+}
