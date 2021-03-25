@@ -14,7 +14,7 @@
             "downloadURL": "https://github.com/TheNightmanCodeth/chromium-ios/releases/download/1.0.0/chromium.ipa",
             "localizedDescription": "Open source version of Google's Chrome browser for iOS",
             "iconURL": "https://github.com/TheNightmanCodeth/chromium-ios/raw/master/Icon.png",
-            "size": "106722609",
+            "size": 106722609,
             "screenshotURLs": [
                 "https://i.imgur.com/dolzx60.png",
                 "https://i.imgur.com/XpJNa6V.png"
